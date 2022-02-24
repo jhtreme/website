@@ -1,0 +1,106 @@
+h1 {
+    color: rgb(16, 16, 240);
+    font-size: 120px;
+    font-style: italic;
+    font-family: 'Tangerine', serif;
+
+}
+
+h2 {
+    color: rgb(16, 16, 240);
+    font-size: 90px;
+    font-style: italic;
+    font-family: 'Tangerine', serif;
+
+}
+
+p {
+     /* font-size: 20px; */
+     /* padding: 2%;
+     text-align: left; */ */
+}
+
+.container-1 {
+    display: flex;
+    color: gold; 
+    font-size: 50px
+}
+
+
+
+.box1 {
+  width: 30%; 
+  padding:30px;
+
+}
+
+.box2 {
+    font-size: 135px;
+}
+
+.box1 img {
+    width: 70%;
+}
+
+.box1 a {
+    text-decoration: none;
+}
+
+.box2 {
+    width: 55%;
+    justify-content: flex-start;
+    color:gold;
+    font-family:'Tangerine', serif;
+    font-size: 35px;
+    }
+
+.container-2 div {
+   display: flex;
+}
+
+.box1a {
+    width: 30%; 
+    padding:30px;
+    }
+
+.box1a img {
+    width: 25%;
+}
+
+.box2a {
+    width: 50%;
+    justify-content: flex-start;
+      
+}
+
+body {
+    background-color: crimson;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+#navbar {
+background-color: goldenrod;
+height: 40px;
+display: flex;
+justify-content:space-evenly;
+align-items: center;
+}
+
+#navbar a {
+    font-weight: 900;
+    font-family: 'Tangerine', serif;
+    font-size: 28px;
+    text-decoration: none;
+}
+
+#navbar a:hover {
+    color: blueviolet;
+}
+
+.large{
+    font-size: 30px; 
+}
+
+
+
